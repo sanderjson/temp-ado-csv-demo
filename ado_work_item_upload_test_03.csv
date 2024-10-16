@@ -1,0 +1,5 @@
+ID,Work Item Type,Title 1,Title 2,Assigned To,State,Priority,Tags
+,"Epic","Track Telemetry for data imports",,,"New","2",
+,"Issue",,"Fix issues with code",,"New","1",
+,"Issue",,"Open private preview for select customers",,"New","2",
+,"Issue",,"Enable feature for customer champs",,"New","2",

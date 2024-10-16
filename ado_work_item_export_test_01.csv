@@ -1,0 +1,30 @@
+﻿ID,Work Item Type,Title,Assigned To,State,Tags
+"27","User Story","User can use Backlog mapping to nest WI under a parent",,"New",
+"28","User Story","User can create WI nested under parent from within Backlogs",,"New",
+"29","User Story","User can add traceability by manually creating links",,"New",
+"30","User Story","User can trace through work items by clicking links","Jonathan <adotester.c01t01.training@rocketsolid.ca>","New",
+"31","Feature","Working with the ADO Backlog",,"New",
+"36","User Story","User can customize column views in Azure Boards",,"New",
+"37","User Story","User can create a template WI",,"New","templates"
+"38","User Story","User can create a template WI that contains child WIs (tree fragment)",,"New","templates"
+"39","User Story","User can create new WIs using existing templates",,"New","templates"
+"40","Feature","Templates and Work Item Trees",,"New",
+"41","User Story","User can create a copy of a WI",,"New",
+"42","User Story","Tree Template Story (with tasks): [User] can [Activity]",,"New","template; template-tree"
+"46","Task","Task 1",,"New",
+"47","Task","Task 2",,"New",
+"48","Task","Task 3",,"New",
+"49","User Story","Template Story: [User] can [Activity]",,"New",
+"50","Task","Task 3",,"New",
+"51","Task","Task 2",,"New",
+"52","Task","Task 1",,"New",
+"53","User Story","Tree Template Story (with tasks): [User] can [Activity]",,"New","template; template-tree"
+"54","Task","Task 1",,"New",
+"55","Task","Task 3",,"New",
+"56","Task","Task 1",,"New",
+"57","User Story","MY NEW COPY",,"New","template; template-tree"
+"58","User Story","User can create a copy of a WI",,"New",
+"59","User Story","User can create a template WI that contains child WIs (tree fragment)",,"New","templates"
+"60","User Story","User can create a template WI",,"New","templates"
+"61","User Story","User can create new WIs using existing templates",,"New","templates"
+"62","Feature","Templates and Work Item Trees COPY",,"New",
